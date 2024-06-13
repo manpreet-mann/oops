@@ -19,6 +19,11 @@ public:
              << "Company " << Company << endl
              << "Age " << Age << endl;
     }
+    // syntax of constructor
+    // <class - name>(list - of - parameters)
+    // {
+    //     // constructor definition
+    // }
     Employee(string name, string company, int age)
     {
         Name = name;
