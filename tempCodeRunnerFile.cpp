@@ -1,0 +1,2 @@
+obj.print();
+    // obj.show();
